@@ -1,0 +1,44 @@
+﻿
+> vite_react_shadcn_ts@0.0.0 lint
+> eslint .
+
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\home\Testimonials.tsx
+  56:6  warning  React Hook useEffect has a missing dependency: 'nextSlide'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\badge.tsx
+  29:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\button.tsx
+  48:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\command.tsx
+  24:11  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\form.tsx
+  129:10  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\navigation-menu.tsx
+  111:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\sidebar.tsx
+  636:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\sonner.tsx
+  27:19  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\textarea.tsx
+  5:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\components\ui\toggle.tsx
+  37:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\safur\OneDrive\Desktop\gauchara-connect\Frontend\src\lib\api.ts
+   6:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Γ£û 15 problems (7 errors, 8 warnings)
+
